@@ -9,7 +9,7 @@ public class Listetrie extends Bordure {
 	public Listetrie(){
 		initialiser(1, 0);
 	}
-
+	//Meo
 	@Override
 	public void ajouter(Sommet s) {
 		for(int i =0;i<ListeA.size();i++){
